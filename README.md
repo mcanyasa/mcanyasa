@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @mcanyasa
 - 👀 I’m interested in FrontEnd technologies
-- 🌱 I’m currently learning Vue, Angular, React
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 🌱 I’m currently learning Vue, Angular and React
+- 📫 How to reach me mcanyasa@hotmail.com
 
 <!---
 mcanyasa/mcanyasa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
